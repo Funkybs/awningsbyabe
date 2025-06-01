@@ -82,24 +82,39 @@ const AbeHomepage = () => {
     });
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
   e.preventDefault();
   
-  emailjs.send(
-    'service_rni3pyo',  // From EmailJS dashboard
-    'template_viwqyd9', // From EmailJS dashboard
-    {
-      from_name: formData.name,
-      from_email: formData.email,
-      phone: formData.phone,
-      project_type: formData.projectType,
-      message: formData.message,
-    },
-    'K5b2NiP3WPUxPWS8n' // From EmailJS dashboard
-  )
-  .then(() => {
-    alert('Thank you! We\'ll contact you within 24 hours.');
-    // Reset form
+  try {
+    // 1. Send to your buddy (NEW TEMPLATE)
+    await emailjs.send(
+      'service_rni3pyo',
+      'template_rnavw7g',  // ← PUT YOUR NEW TEMPLATE ID HERE!
+      {
+        from_name: formData.name,
+        from_email: formData.email,
+        phone: formData.phone,
+        project_type: formData.projectType,
+        message: formData.message,
+      },
+      'K5b2NiP3WPUxPWS8n'
+    );
+    
+    // 2. Send auto-reply to customer
+    await emailjs.send(
+      'service_rni3pyo',
+      'template_viwqyd9',  // Your auto-reply template
+      {
+        from_name: formData.name,
+        from_email: formData.email,
+        project_type: formData.projectType,
+        message: formData.message,
+      },
+      'K5b2NiP3WPUxPWS8n'
+    );
+    
+    alert('Thank you! Check your email for confirmation. We\'ll contact you within 24 hours.');
+    
     setFormData({
       name: '',
       email: '',
@@ -107,11 +122,11 @@ const AbeHomepage = () => {
       projectType: 'residential',
       message: ''
     });
-  })
-  .catch((error) => {
+    
+  } catch (error) {
     console.error('EmailJS error:', error);
     alert('Oops! Something went wrong. Please try again.');
-  });
+  }
 };
 
   return (
