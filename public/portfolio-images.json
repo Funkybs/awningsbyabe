@@ -1,0 +1,716 @@
+{
+  "residential": {
+    "patio-covers": [
+      {
+        "src": "/images/portfolio/residential/patio-covers/PC1.jpg",
+        "name": "PC1",
+        "category": "patio-covers"
+      },
+      {
+        "src": "/images/portfolio/residential/patio-covers/PC2.jpg",
+        "name": "PC2",
+        "category": "patio-covers"
+      },
+      {
+        "src": "/images/portfolio/residential/patio-covers/PC3.jpg",
+        "name": "PC3",
+        "category": "patio-covers"
+      },
+      {
+        "src": "/images/portfolio/residential/patio-covers/PC4.jpg",
+        "name": "PC4",
+        "category": "patio-covers"
+      },
+      {
+        "src": "/images/portfolio/residential/patio-covers/PC5.jpg",
+        "name": "PC5",
+        "category": "patio-covers"
+      }
+    ],
+    "pergolas": [],
+    "carports": [
+      {
+        "src": "/images/portfolio/residential/carports/cp1.jpg",
+        "name": "cp1",
+        "category": "carports"
+      },
+      {
+        "src": "/images/portfolio/residential/carports/cp2.jpg",
+        "name": "cp2",
+        "category": "carports"
+      },
+      {
+        "src": "/images/portfolio/residential/carports/cp3.jpg",
+        "name": "cp3",
+        "category": "carports"
+      },
+      {
+        "src": "/images/portfolio/residential/carports/cp4.jpg",
+        "name": "cp4",
+        "category": "carports"
+      },
+      {
+        "src": "/images/portfolio/residential/carports/cp5.jpg",
+        "name": "cp5",
+        "category": "carports"
+      }
+    ],
+    "pool-shading": [
+      {
+        "src": "/images/portfolio/residential/pool-shading/ps1.jpg",
+        "name": "ps1",
+        "category": "pool-shading"
+      },
+      {
+        "src": "/images/portfolio/residential/pool-shading/ps2.jpg",
+        "name": "ps2",
+        "category": "pool-shading"
+      },
+      {
+        "src": "/images/portfolio/residential/pool-shading/ps3.jpg",
+        "name": "ps3",
+        "category": "pool-shading"
+      },
+      {
+        "src": "/images/portfolio/residential/pool-shading/ps4.jpg",
+        "name": "ps4",
+        "category": "pool-shading"
+      },
+      {
+        "src": "/images/portfolio/residential/pool-shading/ps5.jpg",
+        "name": "ps5",
+        "category": "pool-shading"
+      }
+    ],
+    "shade-sails": [],
+    "recreational-areas": [
+      {
+        "src": "/images/portfolio/residential/recreational-areas/ra1.jpg",
+        "name": "ra1",
+        "category": "recreational-areas"
+      },
+      {
+        "src": "/images/portfolio/residential/recreational-areas/ra2.jpg",
+        "name": "ra2",
+        "category": "recreational-areas"
+      },
+      {
+        "src": "/images/portfolio/residential/recreational-areas/ra3.jpg",
+        "name": "ra3",
+        "category": "recreational-areas"
+      },
+      {
+        "src": "/images/portfolio/residential/recreational-areas/ra4.jpg",
+        "name": "ra4",
+        "category": "recreational-areas"
+      },
+      {
+        "src": "/images/portfolio/residential/recreational-areas/ra5.jpg",
+        "name": "ra5",
+        "category": "recreational-areas"
+      }
+    ],
+    "backyard-solutions": [
+      {
+        "src": "/images/portfolio/residential/backyard-solutions/BY1.jpg",
+        "name": "BY1",
+        "category": "backyard-solutions"
+      },
+      {
+        "src": "/images/portfolio/residential/backyard-solutions/BY2.jpg",
+        "name": "BY2",
+        "category": "backyard-solutions"
+      },
+      {
+        "src": "/images/portfolio/residential/backyard-solutions/BY3.jpg",
+        "name": "BY3",
+        "category": "backyard-solutions"
+      },
+      {
+        "src": "/images/portfolio/residential/backyard-solutions/BY4.jpg",
+        "name": "BY4",
+        "category": "backyard-solutions"
+      },
+      {
+        "src": "/images/portfolio/residential/backyard-solutions/BY5.jpg",
+        "name": "BY5",
+        "category": "backyard-solutions"
+      }
+    ],
+    "window-shades": [],
+    "retractable-awnings": [],
+    "motorized-systems": [],
+    "custom-designs": [
+      {
+        "src": "/images/portfolio/residential/custom-designs/CUSTOM1.jpg",
+        "name": "CUSTOM1",
+        "category": "custom-designs"
+      },
+      {
+        "src": "/images/portfolio/residential/custom-designs/CUSTOM2.jpg",
+        "name": "CUSTOM2",
+        "category": "custom-designs"
+      },
+      {
+        "src": "/images/portfolio/residential/custom-designs/CUSTOM3.jpg",
+        "name": "CUSTOM3",
+        "category": "custom-designs"
+      },
+      {
+        "src": "/images/portfolio/residential/custom-designs/CUSTOM4.jpg",
+        "name": "CUSTOM4",
+        "category": "custom-designs"
+      },
+      {
+        "src": "/images/portfolio/residential/custom-designs/CUSTOM5.jpg",
+        "name": "CUSTOM5",
+        "category": "custom-designs"
+      }
+    ]
+  },
+  "commercial": {
+    "hip-structures": [
+      {
+        "src": "/images/portfolio/commercial/hip-structures/HS1.jpg",
+        "name": "HS1",
+        "category": "hip-structures"
+      },
+      {
+        "src": "/images/portfolio/commercial/hip-structures/HS2.jpg",
+        "name": "HS2",
+        "category": "hip-structures"
+      },
+      {
+        "src": "/images/portfolio/commercial/hip-structures/HS3.jpg",
+        "name": "HS3",
+        "category": "hip-structures"
+      },
+      {
+        "src": "/images/portfolio/commercial/hip-structures/HS4.jpg",
+        "name": "HS4",
+        "category": "hip-structures"
+      },
+      {
+        "src": "/images/portfolio/commercial/hip-structures/HS5.jpg",
+        "name": "HS5",
+        "category": "hip-structures"
+      }
+    ],
+    "car-washes": [
+      {
+        "src": "/images/portfolio/commercial/car-washes/CW1.jpg",
+        "name": "CW1",
+        "category": "car-washes"
+      },
+      {
+        "src": "/images/portfolio/commercial/car-washes/CW2.jpg",
+        "name": "CW2",
+        "category": "car-washes"
+      },
+      {
+        "src": "/images/portfolio/commercial/car-washes/CW3.jpg",
+        "name": "CW3",
+        "category": "car-washes"
+      },
+      {
+        "src": "/images/portfolio/commercial/car-washes/CW4.jpg",
+        "name": "CW4",
+        "category": "car-washes"
+      },
+      {
+        "src": "/images/portfolio/commercial/car-washes/CW5.jpg",
+        "name": "CW5",
+        "category": "car-washes"
+      },
+      {
+        "src": "/images/portfolio/commercial/car-washes/CW6.jpg",
+        "name": "CW6",
+        "category": "car-washes"
+      }
+    ],
+    "shade-sails": [
+      {
+        "src": "/images/portfolio/commercial/shade-sails/SS1.jpg",
+        "name": "SS1",
+        "category": "shade-sails"
+      },
+      {
+        "src": "/images/portfolio/commercial/shade-sails/SS2.jpg",
+        "name": "SS2",
+        "category": "shade-sails"
+      },
+      {
+        "src": "/images/portfolio/commercial/shade-sails/SS3.jpg",
+        "name": "SS3",
+        "category": "shade-sails"
+      },
+      {
+        "src": "/images/portfolio/commercial/shade-sails/SS4.jpg",
+        "name": "SS4",
+        "category": "shade-sails"
+      },
+      {
+        "src": "/images/portfolio/commercial/shade-sails/SS5.jpg",
+        "name": "SS5",
+        "category": "shade-sails"
+      }
+    ],
+    "restaurant-patios": [
+      {
+        "src": "/images/portfolio/commercial/restaurant-patios/RP1.jpg",
+        "name": "RP1",
+        "category": "restaurant-patios"
+      },
+      {
+        "src": "/images/portfolio/commercial/restaurant-patios/RP2.jpg",
+        "name": "RP2",
+        "category": "restaurant-patios"
+      },
+      {
+        "src": "/images/portfolio/commercial/restaurant-patios/RP3.jpg",
+        "name": "RP3",
+        "category": "restaurant-patios"
+      }
+    ],
+    "retail-storefront": [
+      {
+        "src": "/images/portfolio/commercial/retail-storefront/1.jpg",
+        "name": "1",
+        "category": "retail-storefront"
+      }
+    ],
+    "awnings": [
+      {
+        "src": "/images/portfolio/commercial/awnings/A1.jpg",
+        "name": "A1",
+        "category": "awnings"
+      },
+      {
+        "src": "/images/portfolio/commercial/awnings/A2.jpg",
+        "name": "A2",
+        "category": "awnings"
+      },
+      {
+        "src": "/images/portfolio/commercial/awnings/A3.jpg",
+        "name": "A3",
+        "category": "awnings"
+      },
+      {
+        "src": "/images/portfolio/commercial/awnings/A4.jpg",
+        "name": "A4",
+        "category": "awnings"
+      }
+    ],
+    "canopies": [],
+    "cabanas": [],
+    "large-structures": [],
+    "custom-commercial": [
+      {
+        "src": "/images/portfolio/commercial/custom-commercial/CC1.jpg",
+        "name": "CC1",
+        "category": "custom-commercial"
+      },
+      {
+        "src": "/images/portfolio/commercial/custom-commercial/CC2.jpg",
+        "name": "CC2",
+        "category": "custom-commercial"
+      },
+      {
+        "src": "/images/portfolio/commercial/custom-commercial/CC3.jpg",
+        "name": "CC3",
+        "category": "custom-commercial"
+      },
+      {
+        "src": "/images/portfolio/commercial/custom-commercial/CC4.jpg",
+        "name": "CC4",
+        "category": "custom-commercial"
+      },
+      {
+        "src": "/images/portfolio/commercial/custom-commercial/CC5.jpg",
+        "name": "CC5",
+        "category": "custom-commercial"
+      }
+    ],
+    "building-facades": [
+      {
+        "src": "/images/portfolio/commercial/building-facades/BF1.jpg",
+        "name": "BF1",
+        "category": "building-facades"
+      },
+      {
+        "src": "/images/portfolio/commercial/building-facades/BF2.jpg",
+        "name": "BF2",
+        "category": "building-facades"
+      },
+      {
+        "src": "/images/portfolio/commercial/building-facades/BF3.jpg",
+        "name": "BF3",
+        "category": "building-facades"
+      },
+      {
+        "src": "/images/portfolio/commercial/building-facades/BF4.jpg",
+        "name": "BF4",
+        "category": "building-facades"
+      },
+      {
+        "src": "/images/portfolio/commercial/building-facades/BF5.jpg",
+        "name": "BF5",
+        "category": "building-facades"
+      }
+    ],
+    "walkway-covers": [
+      {
+        "src": "/images/portfolio/commercial/walkway-covers/WC1.png",
+        "name": "WC1",
+        "category": "walkway-covers"
+      },
+      {
+        "src": "/images/portfolio/commercial/walkway-covers/WC2.png",
+        "name": "WC2",
+        "category": "walkway-covers"
+      },
+      {
+        "src": "/images/portfolio/commercial/walkway-covers/WC3.png",
+        "name": "WC3",
+        "category": "walkway-covers"
+      }
+    ]
+  },
+  "all": [
+    {
+      "src": "/images/portfolio/residential/patio-covers/PC1.jpg",
+      "name": "PC1",
+      "category": "patio-covers"
+    },
+    {
+      "src": "/images/portfolio/residential/patio-covers/PC2.jpg",
+      "name": "PC2",
+      "category": "patio-covers"
+    },
+    {
+      "src": "/images/portfolio/residential/patio-covers/PC3.jpg",
+      "name": "PC3",
+      "category": "patio-covers"
+    },
+    {
+      "src": "/images/portfolio/residential/patio-covers/PC4.jpg",
+      "name": "PC4",
+      "category": "patio-covers"
+    },
+    {
+      "src": "/images/portfolio/residential/patio-covers/PC5.jpg",
+      "name": "PC5",
+      "category": "patio-covers"
+    },
+    {
+      "src": "/images/portfolio/residential/carports/cp1.jpg",
+      "name": "cp1",
+      "category": "carports"
+    },
+    {
+      "src": "/images/portfolio/residential/carports/cp2.jpg",
+      "name": "cp2",
+      "category": "carports"
+    },
+    {
+      "src": "/images/portfolio/residential/carports/cp3.jpg",
+      "name": "cp3",
+      "category": "carports"
+    },
+    {
+      "src": "/images/portfolio/residential/carports/cp4.jpg",
+      "name": "cp4",
+      "category": "carports"
+    },
+    {
+      "src": "/images/portfolio/residential/carports/cp5.jpg",
+      "name": "cp5",
+      "category": "carports"
+    },
+    {
+      "src": "/images/portfolio/residential/pool-shading/ps1.jpg",
+      "name": "ps1",
+      "category": "pool-shading"
+    },
+    {
+      "src": "/images/portfolio/residential/pool-shading/ps2.jpg",
+      "name": "ps2",
+      "category": "pool-shading"
+    },
+    {
+      "src": "/images/portfolio/residential/pool-shading/ps3.jpg",
+      "name": "ps3",
+      "category": "pool-shading"
+    },
+    {
+      "src": "/images/portfolio/residential/pool-shading/ps4.jpg",
+      "name": "ps4",
+      "category": "pool-shading"
+    },
+    {
+      "src": "/images/portfolio/residential/pool-shading/ps5.jpg",
+      "name": "ps5",
+      "category": "pool-shading"
+    },
+    {
+      "src": "/images/portfolio/residential/recreational-areas/ra1.jpg",
+      "name": "ra1",
+      "category": "recreational-areas"
+    },
+    {
+      "src": "/images/portfolio/residential/recreational-areas/ra2.jpg",
+      "name": "ra2",
+      "category": "recreational-areas"
+    },
+    {
+      "src": "/images/portfolio/residential/recreational-areas/ra3.jpg",
+      "name": "ra3",
+      "category": "recreational-areas"
+    },
+    {
+      "src": "/images/portfolio/residential/recreational-areas/ra4.jpg",
+      "name": "ra4",
+      "category": "recreational-areas"
+    },
+    {
+      "src": "/images/portfolio/residential/recreational-areas/ra5.jpg",
+      "name": "ra5",
+      "category": "recreational-areas"
+    },
+    {
+      "src": "/images/portfolio/residential/backyard-solutions/BY1.jpg",
+      "name": "BY1",
+      "category": "backyard-solutions"
+    },
+    {
+      "src": "/images/portfolio/residential/backyard-solutions/BY2.jpg",
+      "name": "BY2",
+      "category": "backyard-solutions"
+    },
+    {
+      "src": "/images/portfolio/residential/backyard-solutions/BY3.jpg",
+      "name": "BY3",
+      "category": "backyard-solutions"
+    },
+    {
+      "src": "/images/portfolio/residential/backyard-solutions/BY4.jpg",
+      "name": "BY4",
+      "category": "backyard-solutions"
+    },
+    {
+      "src": "/images/portfolio/residential/backyard-solutions/BY5.jpg",
+      "name": "BY5",
+      "category": "backyard-solutions"
+    },
+    {
+      "src": "/images/portfolio/residential/custom-designs/CUSTOM1.jpg",
+      "name": "CUSTOM1",
+      "category": "custom-designs"
+    },
+    {
+      "src": "/images/portfolio/residential/custom-designs/CUSTOM2.jpg",
+      "name": "CUSTOM2",
+      "category": "custom-designs"
+    },
+    {
+      "src": "/images/portfolio/residential/custom-designs/CUSTOM3.jpg",
+      "name": "CUSTOM3",
+      "category": "custom-designs"
+    },
+    {
+      "src": "/images/portfolio/residential/custom-designs/CUSTOM4.jpg",
+      "name": "CUSTOM4",
+      "category": "custom-designs"
+    },
+    {
+      "src": "/images/portfolio/residential/custom-designs/CUSTOM5.jpg",
+      "name": "CUSTOM5",
+      "category": "custom-designs"
+    },
+    {
+      "src": "/images/portfolio/commercial/hip-structures/HS1.jpg",
+      "name": "HS1",
+      "category": "hip-structures"
+    },
+    {
+      "src": "/images/portfolio/commercial/hip-structures/HS2.jpg",
+      "name": "HS2",
+      "category": "hip-structures"
+    },
+    {
+      "src": "/images/portfolio/commercial/hip-structures/HS3.jpg",
+      "name": "HS3",
+      "category": "hip-structures"
+    },
+    {
+      "src": "/images/portfolio/commercial/hip-structures/HS4.jpg",
+      "name": "HS4",
+      "category": "hip-structures"
+    },
+    {
+      "src": "/images/portfolio/commercial/hip-structures/HS5.jpg",
+      "name": "HS5",
+      "category": "hip-structures"
+    },
+    {
+      "src": "/images/portfolio/commercial/car-washes/CW1.jpg",
+      "name": "CW1",
+      "category": "car-washes"
+    },
+    {
+      "src": "/images/portfolio/commercial/car-washes/CW2.jpg",
+      "name": "CW2",
+      "category": "car-washes"
+    },
+    {
+      "src": "/images/portfolio/commercial/car-washes/CW3.jpg",
+      "name": "CW3",
+      "category": "car-washes"
+    },
+    {
+      "src": "/images/portfolio/commercial/car-washes/CW4.jpg",
+      "name": "CW4",
+      "category": "car-washes"
+    },
+    {
+      "src": "/images/portfolio/commercial/car-washes/CW5.jpg",
+      "name": "CW5",
+      "category": "car-washes"
+    },
+    {
+      "src": "/images/portfolio/commercial/car-washes/CW6.jpg",
+      "name": "CW6",
+      "category": "car-washes"
+    },
+    {
+      "src": "/images/portfolio/commercial/shade-sails/SS1.jpg",
+      "name": "SS1",
+      "category": "shade-sails"
+    },
+    {
+      "src": "/images/portfolio/commercial/shade-sails/SS2.jpg",
+      "name": "SS2",
+      "category": "shade-sails"
+    },
+    {
+      "src": "/images/portfolio/commercial/shade-sails/SS3.jpg",
+      "name": "SS3",
+      "category": "shade-sails"
+    },
+    {
+      "src": "/images/portfolio/commercial/shade-sails/SS4.jpg",
+      "name": "SS4",
+      "category": "shade-sails"
+    },
+    {
+      "src": "/images/portfolio/commercial/shade-sails/SS5.jpg",
+      "name": "SS5",
+      "category": "shade-sails"
+    },
+    {
+      "src": "/images/portfolio/commercial/restaurant-patios/RP1.jpg",
+      "name": "RP1",
+      "category": "restaurant-patios"
+    },
+    {
+      "src": "/images/portfolio/commercial/restaurant-patios/RP2.jpg",
+      "name": "RP2",
+      "category": "restaurant-patios"
+    },
+    {
+      "src": "/images/portfolio/commercial/restaurant-patios/RP3.jpg",
+      "name": "RP3",
+      "category": "restaurant-patios"
+    },
+    {
+      "src": "/images/portfolio/commercial/retail-storefront/1.jpg",
+      "name": "1",
+      "category": "retail-storefront"
+    },
+    {
+      "src": "/images/portfolio/commercial/awnings/A1.jpg",
+      "name": "A1",
+      "category": "awnings"
+    },
+    {
+      "src": "/images/portfolio/commercial/awnings/A2.jpg",
+      "name": "A2",
+      "category": "awnings"
+    },
+    {
+      "src": "/images/portfolio/commercial/awnings/A3.jpg",
+      "name": "A3",
+      "category": "awnings"
+    },
+    {
+      "src": "/images/portfolio/commercial/awnings/A4.jpg",
+      "name": "A4",
+      "category": "awnings"
+    },
+    {
+      "src": "/images/portfolio/commercial/custom-commercial/CC1.jpg",
+      "name": "CC1",
+      "category": "custom-commercial"
+    },
+    {
+      "src": "/images/portfolio/commercial/custom-commercial/CC2.jpg",
+      "name": "CC2",
+      "category": "custom-commercial"
+    },
+    {
+      "src": "/images/portfolio/commercial/custom-commercial/CC3.jpg",
+      "name": "CC3",
+      "category": "custom-commercial"
+    },
+    {
+      "src": "/images/portfolio/commercial/custom-commercial/CC4.jpg",
+      "name": "CC4",
+      "category": "custom-commercial"
+    },
+    {
+      "src": "/images/portfolio/commercial/custom-commercial/CC5.jpg",
+      "name": "CC5",
+      "category": "custom-commercial"
+    },
+    {
+      "src": "/images/portfolio/commercial/building-facades/BF1.jpg",
+      "name": "BF1",
+      "category": "building-facades"
+    },
+    {
+      "src": "/images/portfolio/commercial/building-facades/BF2.jpg",
+      "name": "BF2",
+      "category": "building-facades"
+    },
+    {
+      "src": "/images/portfolio/commercial/building-facades/BF3.jpg",
+      "name": "BF3",
+      "category": "building-facades"
+    },
+    {
+      "src": "/images/portfolio/commercial/building-facades/BF4.jpg",
+      "name": "BF4",
+      "category": "building-facades"
+    },
+    {
+      "src": "/images/portfolio/commercial/building-facades/BF5.jpg",
+      "name": "BF5",
+      "category": "building-facades"
+    },
+    {
+      "src": "/images/portfolio/commercial/walkway-covers/WC1.png",
+      "name": "WC1",
+      "category": "walkway-covers"
+    },
+    {
+      "src": "/images/portfolio/commercial/walkway-covers/WC2.png",
+      "name": "WC2",
+      "category": "walkway-covers"
+    },
+    {
+      "src": "/images/portfolio/commercial/walkway-covers/WC3.png",
+      "name": "WC3",
+      "category": "walkway-covers"
+    }
+  ]
+}
