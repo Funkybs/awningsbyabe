@@ -161,8 +161,8 @@ const PortfolioPage = () => {
   }, [lightboxOpen]);
 
   const stats = [
-    { number: images.filter(img => img.category === 'commercial').length, label: 'Commercial Projects' },
-    { number: images.filter(img => img.category === 'residential').length, label: 'Residential Projects' },
+    { number: '100+', label: 'Commercial Projects' },
+    { number: '100+', label: 'Residential Projects' },
     { number: '17+', label: 'Years Experience' },
     { number: '100%', label: 'Client Satisfaction' }
   ];
