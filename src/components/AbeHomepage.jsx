@@ -260,7 +260,7 @@ const AbeHomepage = () => {
                     {project.description}
                   </p>
                   <a 
-                    href="#" 
+                    href="/portfolio"  
                     className={`mt-4 text-white inline-flex items-center transition-all duration-300 ${hoverProject === project.id ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}
                   >
                     View Project <ArrowRight size={18} className="ml-2" />
