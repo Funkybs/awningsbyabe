@@ -36,7 +36,7 @@ const ResidentialPage = () => {
     { id: 'pools', name: 'Pool Shading', slug: 'pool-shading', icon: Home },
     { id: 'backyard', name: 'Backyard Solutions', slug: 'backyard-solutions', icon: Home },
     { id: 'custom', name: 'Custom Designs', slug: 'custom-designs', icon: Home },
-    { id: 'rv', name: 'RV Carports', slug: 'rvCarports', icon: Home },
+    { id: 'rv', name: 'RV Carports', slug: 'rv', icon: Home },
   ];
 
   const residentialFeatures = {
