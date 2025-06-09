@@ -166,6 +166,33 @@
         "name": "CUSTOM5",
         "category": "custom-designs"
       }
+    ],
+    "rv": [
+      {
+        "src": "/images/portfolio/residential/RV/RV1.jpg",
+        "name": "RV",
+        "category": "rv"
+      },
+      {
+        "src": "/images/portfolio/residential/RV/RV2.jpg",
+        "name": "RV",
+        "category": "rv"
+      },
+      {
+        "src": "/images/portfolio/residential/RV/RV3.jpg",
+        "name": "RV",
+        "category": "rv"
+      },
+      {
+        "src": "/images/portfolio/residential/RV/RV4.jpg",
+        "name": "RV",
+        "category": "rv"
+      },
+      {
+        "src": "/images/portfolio/residential/RV/RV5.jpg",
+        "name": "RV",
+        "category": "rv"
+      }
     ]
   },
   "commercial": {
@@ -378,6 +405,136 @@
   },
   "all": [
     {
+      "src": "/images/portfolio/commercial/shade-sails/SS1.jpg",
+      "name": "SS1",
+      "category": "shade-sails"
+    },
+    {
+      "src": "/images/portfolio/commercial/shade-sails/SS2.jpg",
+      "name": "SS2",
+      "category": "shade-sails"
+    },
+    {
+      "src": "/images/portfolio/commercial/shade-sails/SS3.jpg",
+      "name": "SS3",
+      "category": "shade-sails"
+    },
+    {
+      "src": "/images/portfolio/commercial/shade-sails/SS4.jpg",
+      "name": "SS4",
+      "category": "shade-sails"
+    },
+    {
+      "src": "/images/portfolio/commercial/shade-sails/SS5.jpg",
+      "name": "SS5",
+      "category": "shade-sails"
+    },
+    {
+      "src": "/images/portfolio/commercial/restaurant-patios/RP1.jpg",
+      "name": "RP1",
+      "category": "restaurant-patios"
+    },
+    {
+      "src": "/images/portfolio/commercial/restaurant-patios/RP2.jpg",
+      "name": "RP2",
+      "category": "restaurant-patios"
+    },
+    {
+      "src": "/images/portfolio/commercial/restaurant-patios/RP3.jpg",
+      "name": "RP3",
+      "category": "restaurant-patios"
+    },
+    {
+      "src": "/images/portfolio/commercial/retail-storefront/1.jpg",
+      "name": "1",
+      "category": "retail-storefront"
+    },
+    {
+      "src": "/images/portfolio/commercial/awnings/A1.jpg",
+      "name": "A1",
+      "category": "awnings"
+    },
+    {
+      "src": "/images/portfolio/commercial/awnings/A2.jpg",
+      "name": "A2",
+      "category": "awnings"
+    },
+    {
+      "src": "/images/portfolio/commercial/awnings/A3.jpg",
+      "name": "A3",
+      "category": "awnings"
+    },
+    {
+      "src": "/images/portfolio/commercial/awnings/A4.jpg",
+      "name": "A4",
+      "category": "awnings"
+    },
+    {
+      "src": "/images/portfolio/commercial/custom-commercial/CC1.jpg",
+      "name": "CC1",
+      "category": "custom-commercial"
+    },
+    {
+      "src": "/images/portfolio/commercial/custom-commercial/CC2.jpg",
+      "name": "CC2",
+      "category": "custom-commercial"
+    },
+    {
+      "src": "/images/portfolio/commercial/custom-commercial/CC3.jpg",
+      "name": "CC3",
+      "category": "custom-commercial"
+    },
+    {
+      "src": "/images/portfolio/commercial/custom-commercial/CC4.jpg",
+      "name": "CC4",
+      "category": "custom-commercial"
+    },
+    {
+      "src": "/images/portfolio/commercial/custom-commercial/CC5.jpg",
+      "name": "CC5",
+      "category": "custom-commercial"
+    },
+    {
+      "src": "/images/portfolio/commercial/building-facades/BF1.jpg",
+      "name": "BF1",
+      "category": "building-facades"
+    },
+    {
+      "src": "/images/portfolio/commercial/building-facades/BF2.jpg",
+      "name": "BF2",
+      "category": "building-facades"
+    },
+    {
+      "src": "/images/portfolio/commercial/building-facades/BF3.jpg",
+      "name": "BF3",
+      "category": "building-facades"
+    },
+    {
+      "src": "/images/portfolio/commercial/building-facades/BF4.jpg",
+      "name": "BF4",
+      "category": "building-facades"
+    },
+    {
+      "src": "/images/portfolio/commercial/building-facades/BF5.jpg",
+      "name": "BF5",
+      "category": "building-facades"
+    },
+    {
+      "src": "/images/portfolio/commercial/walkway-covers/WC1.png",
+      "name": "WC1",
+      "category": "walkway-covers"
+    },
+    {
+      "src": "/images/portfolio/commercial/walkway-covers/WC2.png",
+      "name": "WC2",
+      "category": "walkway-covers"
+    },
+    {
+      "src": "/images/portfolio/commercial/walkway-covers/WC3.png",
+      "name": "WC3",
+      "category": "walkway-covers"
+    },
+    {
       "src": "/images/portfolio/residential/patio-covers/PC1.jpg",
       "name": "PC1",
       "category": "patio-covers"
@@ -581,136 +738,6 @@
       "src": "/images/portfolio/commercial/car-washes/CW6.jpg",
       "name": "CW6",
       "category": "car-washes"
-    },
-    {
-      "src": "/images/portfolio/commercial/shade-sails/SS1.jpg",
-      "name": "SS1",
-      "category": "shade-sails"
-    },
-    {
-      "src": "/images/portfolio/commercial/shade-sails/SS2.jpg",
-      "name": "SS2",
-      "category": "shade-sails"
-    },
-    {
-      "src": "/images/portfolio/commercial/shade-sails/SS3.jpg",
-      "name": "SS3",
-      "category": "shade-sails"
-    },
-    {
-      "src": "/images/portfolio/commercial/shade-sails/SS4.jpg",
-      "name": "SS4",
-      "category": "shade-sails"
-    },
-    {
-      "src": "/images/portfolio/commercial/shade-sails/SS5.jpg",
-      "name": "SS5",
-      "category": "shade-sails"
-    },
-    {
-      "src": "/images/portfolio/commercial/restaurant-patios/RP1.jpg",
-      "name": "RP1",
-      "category": "restaurant-patios"
-    },
-    {
-      "src": "/images/portfolio/commercial/restaurant-patios/RP2.jpg",
-      "name": "RP2",
-      "category": "restaurant-patios"
-    },
-    {
-      "src": "/images/portfolio/commercial/restaurant-patios/RP3.jpg",
-      "name": "RP3",
-      "category": "restaurant-patios"
-    },
-    {
-      "src": "/images/portfolio/commercial/retail-storefront/1.jpg",
-      "name": "1",
-      "category": "retail-storefront"
-    },
-    {
-      "src": "/images/portfolio/commercial/awnings/A1.jpg",
-      "name": "A1",
-      "category": "awnings"
-    },
-    {
-      "src": "/images/portfolio/commercial/awnings/A2.jpg",
-      "name": "A2",
-      "category": "awnings"
-    },
-    {
-      "src": "/images/portfolio/commercial/awnings/A3.jpg",
-      "name": "A3",
-      "category": "awnings"
-    },
-    {
-      "src": "/images/portfolio/commercial/awnings/A4.jpg",
-      "name": "A4",
-      "category": "awnings"
-    },
-    {
-      "src": "/images/portfolio/commercial/custom-commercial/CC1.jpg",
-      "name": "CC1",
-      "category": "custom-commercial"
-    },
-    {
-      "src": "/images/portfolio/commercial/custom-commercial/CC2.jpg",
-      "name": "CC2",
-      "category": "custom-commercial"
-    },
-    {
-      "src": "/images/portfolio/commercial/custom-commercial/CC3.jpg",
-      "name": "CC3",
-      "category": "custom-commercial"
-    },
-    {
-      "src": "/images/portfolio/commercial/custom-commercial/CC4.jpg",
-      "name": "CC4",
-      "category": "custom-commercial"
-    },
-    {
-      "src": "/images/portfolio/commercial/custom-commercial/CC5.jpg",
-      "name": "CC5",
-      "category": "custom-commercial"
-    },
-    {
-      "src": "/images/portfolio/commercial/building-facades/BF1.jpg",
-      "name": "BF1",
-      "category": "building-facades"
-    },
-    {
-      "src": "/images/portfolio/commercial/building-facades/BF2.jpg",
-      "name": "BF2",
-      "category": "building-facades"
-    },
-    {
-      "src": "/images/portfolio/commercial/building-facades/BF3.jpg",
-      "name": "BF3",
-      "category": "building-facades"
-    },
-    {
-      "src": "/images/portfolio/commercial/building-facades/BF4.jpg",
-      "name": "BF4",
-      "category": "building-facades"
-    },
-    {
-      "src": "/images/portfolio/commercial/building-facades/BF5.jpg",
-      "name": "BF5",
-      "category": "building-facades"
-    },
-    {
-      "src": "/images/portfolio/commercial/walkway-covers/WC1.png",
-      "name": "WC1",
-      "category": "walkway-covers"
-    },
-    {
-      "src": "/images/portfolio/commercial/walkway-covers/WC2.png",
-      "name": "WC2",
-      "category": "walkway-covers"
-    },
-    {
-      "src": "/images/portfolio/commercial/walkway-covers/WC3.png",
-      "name": "WC3",
-      "category": "walkway-covers"
     }
   ]
 }

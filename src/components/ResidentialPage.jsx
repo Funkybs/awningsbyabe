@@ -36,6 +36,7 @@ const ResidentialPage = () => {
     { id: 'pools', name: 'Pool Shading', slug: 'pool-shading', icon: Home },
     { id: 'backyard', name: 'Backyard Solutions', slug: 'backyard-solutions', icon: Home },
     { id: 'custom', name: 'Custom Designs', slug: 'custom-designs', icon: Home },
+    { id: 'rv', name: 'RV Carports', slug: 'rvCarports', icon: Home },
   ];
 
   const residentialFeatures = {
@@ -104,7 +105,18 @@ const ResidentialPage = () => {
         "Engineered for your specific requirements",
       ],
       image: "/images/portfolio/residential/custom-designs/CUSTOM2.jpg"
-    }
+    },
+    rv: {
+      title: "RV Carports",
+      description: "Protect your RV with our custom-designed carports that provide ample space and robust protection against the elements.",
+      features: [
+        "Structural design that complements your home's style",
+        "Weather-resistant materials for Arizona's climate",
+        "Optional integrated drainage systems",
+        "Available with integrated lighting for nighttime safety",
+      ],
+      image: "/images/portfolio/residential/RV/RV3.jpg"
+    },
   };
 
   return (
@@ -358,6 +370,31 @@ const ResidentialPage = () => {
                 <h3 className="text-white text-2xl font-light mb-2">Custom Designs</h3>
                 <p className={`text-white/70 transition-all duration-300 ${hoverProject === 'custom-designs' ? 'opacity-100' : 'opacity-0'}`}>
                   Unique architectural solutions
+                </p>
+                <div 
+                  className={`mt-4 text-white inline-flex items-center transition-all duration-300 ${hoverProject === 'custom-designs' ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}
+                >
+                  View Gallery <ArrowRight size={18} className="ml-2" />
+                </div>
+              </div>
+            </div>
+
+            {/* RV */}
+            <div 
+              className="relative overflow-hidden group h-80 cursor-pointer rounded-lg shadow-lg"
+              onClick={() => openGallery('residential', 'rv', 'RV Carports')}
+              onMouseEnter={() => setHoverProject('rv')}
+              onMouseLeave={() => setHoverProject(null)}
+            >
+              <div 
+                className="absolute inset-0 bg-cover bg-center transition-transform duration-700 ease-in-out group-hover:scale-110"
+                style={{backgroundImage: `url(/images/portfolio/residential/RV/RV3.jpg)`}}
+              ></div>
+              <div className="absolute inset-0 bg-gradient-to-t from-blue-900/90 to-transparent"></div>
+              <div className="absolute inset-0 p-6 flex flex-col justify-end">
+                <h3 className="text-white text-2xl font-light mb-2">RV Carports</h3>
+                <p className={`text-white/70 transition-all duration-300 ${hoverProject === 'rv' ? 'opacity-100' : 'opacity-0'}`}>
+                  Protect your RV with style
                 </p>
                 <div 
                   className={`mt-4 text-white inline-flex items-center transition-all duration-300 ${hoverProject === 'custom-designs' ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}
