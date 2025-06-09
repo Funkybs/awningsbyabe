@@ -48,6 +48,7 @@ const AbeHomepage = () => {
       category: "Commercial",
       image: "/images/commercial1.jpg",
       description: "Custom shade structures",
+      redirect: "/commercial"
     },
     {
       id: 2,
@@ -55,6 +56,7 @@ const AbeHomepage = () => {
       category: "Residential",
       image: "/images/residential1.jpg",
       description: "Expert solutions for private residences",
+      redirect: "/residential"
     },
     {
       id: 3,
@@ -62,6 +64,7 @@ const AbeHomepage = () => {
       category: "Commercial",
       image: "/images/commercial2.jpg",
       description: "Your vision, our attention to detail",
+      redirect: "/commercial"
     }
   ];
   
@@ -247,6 +250,7 @@ const AbeHomepage = () => {
                 className="relative overflow-hidden group h-80 cursor-pointer"
                 onMouseEnter={() => setHoverProject(project.id)}
                 onMouseLeave={() => setHoverProject(null)}
+                onClick={() => window.location.href = project.redirect}
               >
                 <div 
                   className="absolute inset-0 bg-cover bg-center transition-transform duration-700 ease-in-out group-hover:scale-110"
@@ -260,7 +264,7 @@ const AbeHomepage = () => {
                     {project.description}
                   </p>
                   <a 
-                    href="/portfolio"  
+                    href={project.redirect}  
                     className={`mt-4 text-white inline-flex items-center transition-all duration-300 ${hoverProject === project.id ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}
                   >
                     View Project <ArrowRight size={18} className="ml-2" />
@@ -659,10 +663,10 @@ const AbeHomepage = () => {
               <h3 className="text-lg font-semibold mb-6">About Us</h3>
               <ul className="space-y-4 text-gray-400">
                 <li><a href="/about" className="hover:text-amber-400 transition-colors">Our Story</a></li>
-                <li><a href="#" className="hover:text-amber-400 transition-colors">Design Team</a></li>
+                {/* <li><a href="#" className="hover:text-amber-400 transition-colors">Design Team</a></li> */}
                 <li><a href="#" className="hover:text-amber-400 transition-colors">Testimonials</a></li>
                 <li><a href="/portfolio" className="hover:text-amber-400 transition-colors">Portfolio</a></li>
-                <li><a href="#" className="hover:text-amber-400 transition-colors">Careers</a></li>
+                {/* <li><a href="#" className="hover:text-amber-400 transition-colors">Careers</a></li> */}
               </ul>
             </div>
             <div>
